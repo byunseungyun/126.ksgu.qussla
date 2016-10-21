@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://ksgu.qussla.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
